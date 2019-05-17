@@ -40,10 +40,20 @@ export default ({ children }) => {
         to={`/about/`}
         css={css`
         float: right;
+        margin-left: ${rhythm(1/4)};
       `}
       >
         About
-    </Link>
+      </Link>
+      <Link
+          to={`/sessions/`}
+          css={css`
+          float: right;
+          margin-left: ${rhythm(1/4)};
+        `}
+        >
+          Sessions
+      </Link>    
       {children}
     </div>
   )
