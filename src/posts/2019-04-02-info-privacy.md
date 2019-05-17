@@ -10,21 +10,16 @@ image: https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2
 published: true
 ---
 
-## Freedom of Information and Protection of Privacy
-
 ![](https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
-_Photo by [Matthew Henry](https://unsplash.com/photos/fPxOowbR6ls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/surveillance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+<em>Photo by [Matthew Henry](https://unsplash.com/photos/fPxOowbR6ls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/surveillance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</em>
 
 ### Details
 
 In this week's session we'll be exploring the world of privacy! We'll dive into the laws that protect our information and privacy rights in BC, and learn about the effects of the General Data Protection Regulation (GDPR) in the European Union.
 
-[Meetup link](https://www.meetup.com/DevhubVancouver/events/260152513/)
+[Meetup link - now closed](https://www.meetup.com/DevhubVancouver/events/260152513/)
 
-### Agenda
-
-TBD!
 
 ### Resources
 
@@ -138,11 +133,13 @@ The PIPA regulations require that, for an individual who is a minor, seriously i
 
 You may only collect personal information for a purpose that a reasonable person would consider appropriate in the circumstances. You must limit your collection to the amount and type of personal information that is necessary to fulfill your purposes for collecting it. You must notify individuals of the reasonable purposes for collecting personal information before or at the time you collect that information. You must obtain consent from an individual before or at the time you collect personal information.
 
+```
 Be careful of Reasonable Use!
 =============================
 
-Anja owns a bookstore and maintains an email list of customers who want information on new releases. When her friend, Rose, decides to run for city council, she
-uses this list to send out a mass email urging her
+Anja owns a bookstore and maintains an email list of customers who want information on new releases. When her friend, Rose, decides to run for city council, sheuses this list to send out a mass email urging her
 customers to vote for Rose as a pro-book candidate. Rose has contravened PIPA because she is using the collected information for a new purpose (to campaign for Rose) without first determining whether the new use is reasonable and before notifying her customers that she wishes to use their email addresses for this new purpose and obtaining their consent to do so.  
+
+```
 
 Cloud Act - Donald Trump (any data that is within the system of an American company, even if you live in Canada)

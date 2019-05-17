@@ -10,11 +10,9 @@ image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2
 published: true
 ---
 
-## Futures of Learning: Learning Analytics
-
 ![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2018&q=80)
 
-_Photo by [Element5 Digital](https://unsplash.com/photos/OyCl7Y4y0Bk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/education?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+<em>Photo by [Element5 Digital](https://unsplash.com/photos/OyCl7Y4y0Bk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/education?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</em>
 
 This month I had the privilege of presenting at [Stella Lee's Futures of Learning meetup group](https://www.meetup.com/FuturesOfLearning/events/259861752/) alongside [Alec Balasescu](https://www.alecbalasescu.com/). The theme for the session was "Learning Analytics". As an instructor at a web development bootcamp, I work closely with the education team in gathering and analyzing performance data to improve our curriculum and the general student experience. Here are the rough notes that I used for my presentation. Soon I'll compile these notes into a nicely formatted blog post!
 

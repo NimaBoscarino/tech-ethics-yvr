@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Tech Ethics YVR`,
+    title: `Ethical Tech YVR`,
   },  
   plugins: [
     {

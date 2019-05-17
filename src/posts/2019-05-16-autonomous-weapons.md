@@ -10,11 +10,9 @@ image: https://images.unsplash.com/reserve/sZdXEWxTZ6BxcBuj6HZP_DSC_0090.JPG?ixl
 published: true
 ---
 
-## Tech in Warfare: Autonomous Weapons
-
 ![](https://images.unsplash.com/reserve/sZdXEWxTZ6BxcBuj6HZP_DSC_0090.JPG?ixlib=rb-1.2.1&auto=format&fit=crop&w=1347&q=80)
 
-_Photo by [Jeff Cooper](https://unsplash.com/photos/Onx4oPD6Qd4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/military?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+<em>Photo by [Jeff Cooper](https://unsplash.com/photos/Onx4oPD6Qd4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/military?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</em>
 
 ### Details
 
