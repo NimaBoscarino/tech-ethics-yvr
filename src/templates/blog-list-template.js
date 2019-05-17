@@ -4,7 +4,8 @@ import { css } from "@emotion/core"
 import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
 
-export default ({ data }) => {
+export default ({ data, pageContext }) => {
+  console.log(pageContext)
   return (
     <Layout>
       <div>
@@ -61,24 +62,61 @@ export default ({ data }) => {
                 >
                   {node.frontmatter.date}
                 </div>              
-                <p>{node.frontmatter.excerpt}</p>
+                <p>{node.frontmatter.excerpt} <span css={css`
+                  text-decoration: underline;
+                `}>Read more...</span></p>
               </div>
             </Link>
           </div>
         ))}
+
+        <div>
+          {
+            pageContext.currentPage !== 1 &&
+            <Link
+              to={
+                pageContext.currentPage === 2 ? '/' : `/blog/${pageContext.currentPage - 1}`
+              }
+              css={css`
+                text-decoration: none;
+                color: inherit;
+              `}
+            >
+              <span>{"< Prev"}</span>
+            </Link>
+          }
+          { " " }
+          {
+            pageContext.currentPage !== pageContext.numPages &&
+            <Link
+              to={ `/blog/${pageContext.currentPage + 1}` }
+              css={css`
+                text-decoration: none;
+                color: inherit;
+              `}
+            >
+              <span>{"Next >"}</span>
+            </Link>
+          }
+        </div>
       </div>
     </Layout>
   )
 }
 
-export const query = graphql`
-  query {
+export const query = graphql` 
+  query blogListQuery($skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
       totalCount
       edges {
         node {
