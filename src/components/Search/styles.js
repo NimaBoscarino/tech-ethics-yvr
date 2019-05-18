@@ -2,9 +2,7 @@ import styled, { css } from "styled-components"
 import { Search } from "styled-icons/fa-solid/Search"
 
 export const Root = styled.div`
-  position: absolute;
-  left: 80%;
-  top: 50px;
+  position: relative;
   display: grid;
   grid-gap: 1em;
 `
@@ -58,6 +56,7 @@ export const Input = styled.input`
   transition: ${props => props.theme.shortTrans};
   border-radius: ${props => props.theme.smallBorderRadius};
   ${props => (props.collapse ? collapse : expand)};
+  transition: width 0.5s;
 `
 
 export const Form = styled.form`

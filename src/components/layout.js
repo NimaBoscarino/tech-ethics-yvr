@@ -42,7 +42,6 @@ export default ({ children }) => {
           {data.site.siteMetadata.title}
         </h3>
       </Link>
-      <Search collapse indices={searchIndices} />
       <Link
         to={`/about/`}
         css={css`
@@ -60,7 +59,13 @@ export default ({ children }) => {
         `}
         >
           Sessions
-      </Link>    
+      </Link>
+      <div css={css`
+        display: inline-block;
+        float: right;  
+      `}>
+        <Search collapse indices={searchIndices} />
+      </div>
       {children}
     </div>
   )
