@@ -4,6 +4,12 @@ import { useStaticQuery, Link, graphql } from "gatsby"
 
 import { rhythm } from "../utils/typography"
 
+import Search from "./Search"
+
+const searchIndices = [
+  { name: `Posts`, title: `Blog Posts`, hitComp: `PostHit` },
+]
+
 export default ({ children }) => {
   const data = useStaticQuery(
     graphql`
@@ -36,6 +42,7 @@ export default ({ children }) => {
           {data.site.siteMetadata.title}
         </h3>
       </Link>
+      <Search collapse indices={searchIndices} />
       <Link
         to={`/about/`}
         css={css`

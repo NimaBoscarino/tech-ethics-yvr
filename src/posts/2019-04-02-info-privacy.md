@@ -8,6 +8,7 @@ excerpt: >-
   In this week's session we'll be exploring the world of privacy! We'll dive into the laws that protect our information and privacy rights in BC, and learn about the effects of the General Data Protection Regulation (GDPR) in the European Union.
 image: https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 published: true
+tags: ["privacy"]
 ---
 
 ![](https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)

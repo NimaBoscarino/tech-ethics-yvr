@@ -8,6 +8,7 @@ excerpt: >-
   This month I had the privilege of presenting at Stella Lee's Futures of Learning meetup group alongside Alec Balasescu. The theme for the session was "Learning Analytics".
 image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2018&q=80
 published: true
+tags: ["learning", "education", "analytics"]
 ---
 
 ![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2018&q=80)

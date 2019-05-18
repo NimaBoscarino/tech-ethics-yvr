@@ -8,6 +8,7 @@ excerpt: >-
   In May 15th's session learned about how autonomous weapons have a presence in militaries around the world, and discussed the ethical issues surrounding their use.
 image: https://images.unsplash.com/reserve/sZdXEWxTZ6BxcBuj6HZP_DSC_0090.JPG?ixlib=rb-1.2.1&auto=format&fit=crop&w=1347&q=80
 published: true
+tags: ["weapons", "war", "automation"]
 ---
 
 ![](https://images.unsplash.com/reserve/sZdXEWxTZ6BxcBuj6HZP_DSC_0090.JPG?ixlib=rb-1.2.1&auto=format&fit=crop&w=1347&q=80)

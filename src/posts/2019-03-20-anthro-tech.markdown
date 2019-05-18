@@ -7,7 +7,7 @@ permalink: /anthro-tech
 excerpt: >-
     As AI advances, many products are being built with human features as a core part of their design. In this session, we dove into what that means, and explored the decisions and conversations that arise as a result of this.
 image: https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
-
+tags: ["anthropomorphic", "anthro", "robot"]
 ---
 
 ![](https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
