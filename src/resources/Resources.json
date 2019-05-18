@@ -1,0 +1,65 @@
+[
+  {
+    "id": "e54e72d5-1ba3-409d-8623-8a317d6851f9",
+    "title": "Weapons of Math Destruction",
+    "medium": "book",
+    "link": "https://weaponsofmathdestructionbook.com/",
+    "tags": ["inequality", "big data"]
+  },
+  {
+    "id": "4b6d8b64-5b07-4d94-87e6-a606e5f3494f",
+    "title": "The New Dark Age",
+    "medium": "book",
+    "link": "https://www.versobooks.com/books/3002-new-dark-age",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "e4bb5dff-2773-42d7-848d-7d3d9a440561",
+    "title": "Invisible Women",
+    "medium": "book",
+    "link": "https://www.penguin.co.uk/books/111/1113605/invisible-women/9781784741723.html",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "92d174b9-fa66-4cc7-9ddb-4058aa653896",
+    "title": "The Death of the Gods",
+    "medium": "book",
+    "link": "https://www.penguin.co.uk/books/111/1114124/the-death-of-the-gods/9781786090126.html",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "82fd5949-f6aa-4766-91d1-5421ba3746c7",
+    "title": "Ethical Web Development",
+    "medium": "website",
+    "link": "https://ethicalweb.org/",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "fab212b6-9acd-46ce-97b4-f8e761a41000",
+    "title": "Google's AI Assistant",
+    "medium": "article",
+    "link": "https://www.youtube.com/watch?v=JvbHu_bVa_g",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "c8b80ad4-a11b-43fd-80d3-4aaff0a2d551",
+    "title": "The Atlantic: Why are digital assistants female?",
+    "medium": "article",
+    "link": "https://www.theatlantic.com/technology/archive/2016/03/why-do-so-many-digital-assistants-have-feminine-names/475884/",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "77b8dd9e-5a88-48f9-95bf-cec8f9fcf511",
+    "title": "Can You Murder a Robot",
+    "medium": "article",
+    "link": "https://www.bbc.co.uk/programmes/p073p3gb",
+    "tags": ["inequality"]
+  },
+  {
+    "id": "dd42fe9a-c06e-4e9b-ae99-941da38df31f",
+    "title": "Interactions With Robots: The Truths We Reveal About Ourselves",
+    "medium": "article",
+    "link": "https://www.annualreviews.org/doi/full/10.1146/annurev-psych-010416-043958",
+    "tags": ["inequality"]
+  }
+]

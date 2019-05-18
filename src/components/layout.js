@@ -52,6 +52,15 @@ export default ({ children }) => {
         About
       </Link>
       <Link
+        to={`/resources/`}
+        css={css`
+        float: right;
+        margin-left: ${rhythm(1/4)};
+      `}
+      >
+        Resources
+      </Link>
+      <Link
           to={`/sessions/`}
           css={css`
           float: right;
