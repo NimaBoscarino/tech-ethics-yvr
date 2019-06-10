@@ -32,7 +32,7 @@
     "title": "Ethical Web Development",
     "medium": "website",
     "link": "https://ethicalweb.org/",
-    "tags": ["inequality"]
+    "tags": ["inequality", "accessibility"]
   },
   {
     "id": "fab212b6-9acd-46ce-97b4-f8e761a41000",
@@ -61,5 +61,26 @@
     "medium": "article",
     "link": "https://www.annualreviews.org/doi/full/10.1146/annurev-psych-010416-043958",
     "tags": ["inequality"]
+  },
+  {
+    "id": "3a6cfa9a-598d-4c64-b714-ed9ff09bed31",
+    "title": "GDPR After One Year: Costs and Unintended Consequences - Truth on the Market",
+    "medium": "article",
+    "link": "https://truthonthemarket.com/2019/05/24/gdpr-after-one-year-costs-and-unintended-consequences/",
+    "tags": ["gdpr", "privacy"]
+  },
+  {
+    "id": "66650368-9851-468f-8389-29e2c34990ab",
+    "title": "jetBlue explains to a passenger how it got a photo of her face",
+    "medium": "article",
+    "link": "https://boingboing.net/2019/04/23/in-this-twitter-exchange-jetb.html",
+    "tags": ["privacy"]
+  },
+  {
+    "id": "439d1fc2-fa1e-406e-a2c9-ae3f8ffac151",
+    "title": "Technology ethics campaigners offer plan to fight 'human downgrading'",
+    "medium": "article",
+    "link": "https://www.reuters.com/article/us-tech-ethics/technology-ethics-campaigners-offer-plan-to-fight-human-downgrading-idUSKCN1S002A",
+    "tags": ["future of work"]
   }
 ]
