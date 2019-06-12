@@ -96,5 +96,12 @@
     "medium": "website",
     "link": "https://netblocks.org/",
     "tags": ["inequality", "internet", "censorship"]
-  }  
+  },
+  {
+    "id": "09ea2596-c27a-4f0d-a988-6c680716534f",
+    "title": "RFC 7725 - An HTTP Status Code to Report Legal Obstacles",
+    "medium": "article",
+    "link": "https://tools.ietf.org/html/rfc7725",
+    "tags": ["inequality", "internet", "censorship", "protocol", "rfc"]
+  }
 ]
