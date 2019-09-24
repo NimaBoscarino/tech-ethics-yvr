@@ -13,27 +13,27 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "@emotion/core": "^10.0.10",
-    "algoliasearch": "^3.33.0",
-    "dotenv": "^8.0.0",
-    "gatsby": "^2.5.0",
-    "gatsby-plugin-algolia": "^0.3.0",
-    "gatsby-plugin-emotion": "^4.0.6",
-    "gatsby-plugin-typography": "^2.2.13",
-    "gatsby-source-filesystem": "^2.0.36",
-    "gatsby-transformer-json": "^2.1.11",
-    "gatsby-transformer-remark": "^2.3.12",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-instantsearch-dom": "^5.6.0",
+    "@emotion/core": "^10.0.17",
+    "algoliasearch": "^3.34.0",
+    "dotenv": "^8.1.0",
+    "gatsby": "^2.15.21",
+    "gatsby-plugin-algolia": "^0.3.4",
+    "gatsby-plugin-emotion": "^4.1.7",
+    "gatsby-plugin-typography": "^2.3.8",
+    "gatsby-source-filesystem": "^2.1.26",
+    "gatsby-transformer-json": "^2.2.9",
+    "gatsby-transformer-remark": "^2.6.24",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-instantsearch-dom": "^5.7.0",
     "react-typography": "^0.16.19",
-    "styled-components": "^4.2.0",
-    "styled-icons": "^7.15.1",
+    "styled-components": "^4.4.0",
+    "styled-icons": "^8.4.2",
     "typography": "^0.16.19",
     "typography-theme-kirkham": "^0.16.19"
   },
   "devDependencies": {
-    "prettier": "^1.17.1"
+    "prettier": "^1.18.2"
   },
   "repository": {
     "type": "git",
