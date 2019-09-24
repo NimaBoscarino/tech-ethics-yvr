@@ -103,5 +103,61 @@
     "medium": "article",
     "link": "https://tools.ietf.org/html/rfc7725",
     "tags": ["inequality", "internet", "censorship", "protocol", "rfc"]
+  },
+  {
+    "id": "0b43e34e-261e-4873-afb0-c4c215254b9c",
+    "title": "Your Undivided Attention",
+    "medium": "podcast",
+    "link": "https://humanetech.com/podcast/",
+    "tags": ["attention economy", "big data", "internet", "privacy"]
+  },
+  {
+    "id": "d82b59a1-106c-46d3-af6a-ce51f5095cdf",
+    "title": "Breach",
+    "medium": "podcast",
+    "link": "https://www.carbonite.com/podcasts/breach",
+    "tags": ["big data", "internet", "privacy", "security"]
+  },
+  {
+    "id": "7fd0443a-bd76-4a3c-83c4-1012042366cd",
+    "title": "IRL",
+    "medium": "podcast",
+    "link": "https://irlpodcast.org/",
+    "tags": ["internet"]
+  },
+  {
+    "id": "dff19f51-d9f1-4f2d-995b-2efe66512b49",
+    "title": "New Ways of Seeing",
+    "medium": "podcast",
+    "link": "https://www.bbc.co.uk/programmes/m000458m",
+    "tags": ["big data", "censorship", "future of work", "inequality", "internet", "privacy", "protocol"]
+  },
+  {
+    "id": "63956a85-cd47-4536-bdda-4a3eb3538e59",
+    "title": "Steal This Show",
+    "medium": "podcast",
+    "link": "https://stealthisshow.com/",
+    "tags": ["censorship", "decentralization", "internet", "privacy", "protocol"]
+  },
+  {
+    "id": "a9ae0500-811a-4126-b9f7-102a98409694",
+    "title": "Technically Wrong",
+    "medium": "book",
+    "link": "http://www.sarawb.com/technically-wrong/",
+    "tags": ["accessibility", "attention economy", "big data", "inequality"]
+  },
+  {
+    "id": "fe736b2a-0c11-48f6-923a-71aa15bd4033",
+    "title": "Protocol",
+    "medium": "book",
+    "link": "https://mitpress.mit.edu/books/protocol",
+    "tags": ["decentralization", "internet", "protocol"]
+  },
+  {
+    "id": "6115f836-2a40-4013-b334-92fe6910370a",
+    "title": "How to Do Nothing",
+    "medium": "book",
+    "link": "https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/9781612197494/",
+    "tags": ["attention economy", "future of work", "internet"]
   }
 ]

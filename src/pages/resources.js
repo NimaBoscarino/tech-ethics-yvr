@@ -23,6 +23,10 @@ export default ({ data }) => (
     <hr></hr>
     <h2>Books</h2>
     <ResourceList edges={data.allResourcesJson.edges} medium={"book"}/>
+
+    <hr></hr>
+    <h2>Podcasts</h2>
+    <ResourceList edges={data.allResourcesJson.edges} medium={"podcasts"}/>
   
     <hr></hr>
     <h2>Websites</h2>
